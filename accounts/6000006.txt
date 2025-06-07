@@ -1,6 +1,6 @@
 PlayerID=("6000006")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("hacked by t.me/wergity_mods")
 IP=("FvVRyDS9IV8dZs8NH3O5gQ==")
 RegisterDate=("2025-06-07 08:01:40")
 PlayerName=("Игрок 4399")

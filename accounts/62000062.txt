@@ -1,6 +1,6 @@
 PlayerID=("62000062")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Перестаньте юзать кламси")
 IP=("MiKmBGjWxwWYAQRQraHk1Q==")
 RegisterDate=("2025-06-07 09:21:01")
 PlayerName=("Игрок 4003")

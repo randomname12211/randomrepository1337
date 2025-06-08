@@ -1,6 +1,0 @@
-PlayerID=("58000058")
-BanStatus=("true")
-BanReason=("Ого да ты молодец!")
-IP=("oF+/HeWUwjxf/Ai/Fc+fjQ==")
-RegisterDate=("2025-06-07 09:16:34")
-PlayerName=("Игрок 0533")

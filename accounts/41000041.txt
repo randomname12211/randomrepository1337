@@ -1,6 +1,0 @@
-PlayerID=("41000041")
-BanStatus=("true")
-BanReason=("Кламси не приветствуется")
-IP=("cl6WToUmwkEu6MO4NqADBA==")
-RegisterDate=("2025-06-07 08:43:00")
-PlayerName=("Игрок 2534")

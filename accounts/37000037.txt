@@ -1,6 +1,0 @@
-PlayerID=("37000037")
-BanStatus=("true")
-BanReason=("Поздравляю ты первый софтер!")
-IP=("oF+/HeWUwjxf/Ai/Fc+fjQ==")
-RegisterDate=("2025-06-07 08:41:21")
-PlayerName=("Игрок 6143")
